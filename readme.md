@@ -2,7 +2,7 @@
 
 Express repo that is which one can fork to easily start development
 
-Write your code in `app.js`
+Write your code in `main.js`
 
 To run do `npm run start`
 
